@@ -1,4 +1,4 @@
---Leonardo Vuèenoviæ JAVA1
+--Leonardo VuÃ¨enoviÃ¦ JAVA1
 create database CinestarJava1
 go
 use CinestarJava1
@@ -846,7 +846,6 @@ begin
 	delete from FavoriteActorOfUser
 	where @IDActor = @IDActor
 end
---PROC ZA LOG IN, user i admin
 
 
 select * from FavoriteActorOfUser
