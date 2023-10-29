@@ -1,0 +1,12 @@
+hr\algebra\model\Genre.class
+hr\algebra\model\Director.class
+hr\algebra\DAL\Repository.class
+hr\algebra\DAL\SQL\DataSourceSingelton.class
+hr\algebra\DAL\RepositoryFactory.class
+hr\algebra\model\Movie.class
+hr\algebra\DAL\SQL\SqlRepository.class
+hr\algebra\model\Actor.class
+hr\algebra\model\ActorTransferable.class
+hr\algebra\model\User.class
+hr\algebra\model\DateAdapter.class
+hr\algebra\model\MovieArchive.class

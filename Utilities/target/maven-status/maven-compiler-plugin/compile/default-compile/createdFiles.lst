@@ -1,0 +1,6 @@
+hr\algebra\Utilities\FileUtils.class
+hr\algebra\Utilities\MessageUtils.class
+hr\algebra\factory\UrlConnectionFactory.class
+hr\algebra\factory\ParserFactory.class
+hr\algebra\Utilities\IconUtils.class
+hr\algebra\Utilities\JAXBUtils.class
